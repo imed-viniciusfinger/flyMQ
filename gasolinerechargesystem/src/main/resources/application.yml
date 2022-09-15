@@ -7,5 +7,5 @@ spring:
 queue:
   arriving-plane: ArrivingPlaneQueue
   update-arriving-plane: UpdateArrivingPlaneQueue
-  permission-to-fly: PermissionToFlyQueue
+  landing-confirmation: LandingConfirmationQueue
   refuel-plane: RefuelPlaneQueue
